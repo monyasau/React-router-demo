@@ -1,9 +1,9 @@
-export default function Contact() {
+export default function Home() {
   return (
     <>
       <div>
-        <h2 className="text-center">Contact</h2>
-        <div className="mx-auto w-85 my-4">Here's how to contact me</div>
+        <h2 className="text-center">About</h2>
+        <div className="mx-auto w-85 my-4">About me</div>
         <div className="mx-auto w-85 my-4">
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. A quos,
           dolor illo dolorum aspernatur explicabo molestiae nostrum cumque
